@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. Please contact `support <farid.mohammadi@iws.uni-stuttgart.de/>`_
 
 Contents
 --------
